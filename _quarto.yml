@@ -5,7 +5,7 @@ project:
     - "*.qmd"
 
 website:
-  title: "How do you wanna call your website?"
+  title: "Sana Gupta's Website"
   search: true
   cookie-consent: false
   twitter-card: true
