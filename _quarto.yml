@@ -14,6 +14,7 @@ website:
   navbar:
     right:
       - blog.qmd
+      - About.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
