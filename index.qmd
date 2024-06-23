@@ -14,5 +14,5 @@ about:
       href: https://github.com
 
 ---
-
+<link rel="stylesheet" href="assets/css/styles.css">
 <Write somethign about yourself or your website>
